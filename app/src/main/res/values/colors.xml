@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006CB5</color>
+    <color name="colorPrimaryDark">#006CB5</color>
+    <color name="colorAccent">#13B4EA</color>
+    <color name="lightGray">#dddddd</color>
+    <color name="darkerGray">#aaa</color>
+    <color name="debug">#FFFFFF</color>
+    <color name="info">#00FF00</color>
+    <color name="warn">#FFFF00</color>
+    <color name="error">#FF0000</color>
+    <color name="fatal">#FF0000</color>
+    <color name="lightGreen">#71c493</color>
+    <color name="lightRed">#cc4f64</color>
+    <color name="cardviewDarkBackground">#FF424242</color>
+    <color name="appBlue">#0367f2</color>
+    <color name="dividerColor">#e6e6e6</color>
+    <color name="grayText">#8a8a8e</color>
+    <color name="textDarkGray">#1e1e1e</color>
+    <color name="whiteOp50">#7fffffff</color>
+    <color name="dialogTitle">#de000000</color>
+    <color name="dialogMessage">#8a000000</color>
+    <color name="dialogNegativeButton">#666666</color>
+    <color name="dialogPositiveButton">#3e92e6</color>
+    <color name="noteColor">#1d1d26</color>
+    <color name="bg">#f8f8f8</color>
+    <color name="bgRowBackground">#ff3b30</color>
+    <color name="white">#ffffff</color>
+</resources>

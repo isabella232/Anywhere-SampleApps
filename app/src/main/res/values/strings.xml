@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anywhere Sample App</string>
+    <string name="form_id">Form 12345</string>
+    <string name="form_title">Form Title</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="submit_success">Feedback submitted successfully</string>
+    <string name="no_data_available">No Data</string>
+</resources>
