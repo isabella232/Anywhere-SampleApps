@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Anywhere-Mobile-SampleApp.iml" filepath="$PROJECT_DIR$/.idea/Anywhere-Mobile-SampleApp.iml" group="Anywhere-Mobile-SampleApp" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Anywhere-Mobile-SampleApp/app" />
-    </modules>
-  </component>
-</project>
