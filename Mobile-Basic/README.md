@@ -6,7 +6,7 @@
 <br>
 <br>
 
-![grab-landing-page](../images/sample-app.gif)
+![grab-landing-page](./images/sample-app.gif)
 
 ## Overview
 
@@ -35,7 +35,7 @@ Contact your digital Customer Success Manager for details.
 - Cache data with Room
 - Retrieve data with Retrofit
 
-![Example screenshot](../images/repository.png)
+![Example screenshot](./images/repository.png)
 
 ## Dependencies
 
@@ -75,10 +75,10 @@ Generating and submitting a feedback requires calling multiple API calls, in the
 
 `The first INIT:`
 
-![Example screenshot](../images/First_Init_Flow.png)
+![Example screenshot](./images/First_Init_Flow.png)
 
 `The second INIT and above:`
-![Example screenshot](../images/Init_Flow.png)
+![Example screenshot](./images/Init_Flow.png)
 <br>
 <br>
 <br>
